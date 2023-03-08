@@ -1,0 +1,5 @@
+para iniciar init
+para incluir los cambios add
+para comentar los cambios commid
+para enviar los cambio al repositorio push
+para clonar clonn
