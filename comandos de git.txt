@@ -1,5 +1,16 @@
+coneccion a github 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
+git bach
+para veririfcar la version que instalamos, introducimos el siguiente codigo git --version
+
+
 para iniciar init
+para ver un estatus de nuestro git "git status"
 para incluir los cambios add
-para comentar los cambios commid
+para comentar los cambios commid "git commit -m "mensaje de confirmación""
 para enviar los cambio al repositorio push
 para clonar clonn
+para verificar que estamos binculados utilizamos " git remote -v"
+para verificar nuestras credenciales git config -l
+para cuales fueron los pasos realizados puedo hacer un "git log"
+para volver a un punto anterior del comit debemos usar "git checkut --" descarta todo el progreso que se obtuvo antes de comitear
+para acceder "git checkut 574f2a09338d6fc50f979821d9e563f9a5ed68c9" el numero largo es el identificador del comit que lo encontramos aplicando el comando "git log"
